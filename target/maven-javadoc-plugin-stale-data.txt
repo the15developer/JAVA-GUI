@@ -1,0 +1,55 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/Danny/Documents/NetBeansProjects/Uygulama/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Danny/Documents/NetBeansProjects/Uygulama/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Uygulama 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Uygulama 1.0-SNAPSHOT API'
+'C:/Users/Danny/Documents/NetBeansProjects/Uygulama/src/main/java/JFrame1.java'
+'C:/Users/Danny/Documents/NetBeansProjects/Uygulama/src/main/java/Uygulama.java'
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\src\main\java\JFrame1.form = 1686260771030
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\src\main\java\JFrame1.java = 1686260771045
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\src\main\java\Uygulama.java = 1686170778975
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\src\main\java = 1686212015096
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\allclasses-index.html = 1686260777605
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\allpackages-index.html = 1686260777608
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\copy.svg = 1686260777636
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\element-list = 1686260777490
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\help-doc.html = 1686260777625
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\index-all.html = 1686260777610
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\index.html = 1686260777625
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\JFrame1.html = 1686260777485
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\jquery-ui.overrides.css = 1686260777649
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\member-search-index.js = 1686260777610
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\module-search-index.js = 1686260777608
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\overview-tree.html = 1686260777592
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\package-search-index.js = 1686260777610
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\package-summary.html = 1686260777506
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\package-tree.html = 1686260777515
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\package-use.html = 1686260777588
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\script.js = 1686260777635
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\search-page.js = 1686260777640
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\search.html = 1686260777610
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\search.js = 1686260777639
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\serialized-form.html = 1686260777556
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\stylesheet.css = 1686260777633
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\tag-search-index.js = 1686260777610
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\type-search-index.js = 1686260777610
+C:\Users\Danny\Documents\NetBeansProjects\Uygulama\target\site\apidocs\Uygulama.html = 1686260777490
